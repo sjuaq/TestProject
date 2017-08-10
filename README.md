@@ -1,7 +1,5 @@
-# TestProject
-## Ben denedim bunu..
-### Vacip yeme onu
-#### O benim
-asdasidlşsaldşsldşsal şşdsa şdşs laşdl şsalş dlsa lşds ld lsa
-aslkdlşaskldkslaş dlks lakdlş kslşa kdlksla 
-**Çorbacı Vaco**
+_italik_
+**bold**
+**_denedim_**
+~~sasaasa~~ bitti
+[I'm an inline-style link](https://www.google.com)
